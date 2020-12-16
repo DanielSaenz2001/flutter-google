@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "132877787395",
+    "project_id": "optimal-primer-298215",
+    "storage_bucket": "optimal-primer-298215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132877787395:android:84706555cc4848cad9c936",
+        "android_client_info": {
+          "package_name": "upeu.edu.pe.flutter_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132877787395-jm2il525dn70ovb17irc3eq77lg7mbgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "upeu.edu.pe.flutter_google",
+            "certificate_hash": "46cb52005be9eb9bcf71137422da6c28c5d09d75"
+          }
+        },
+        {
+          "client_id": "132877787395-0a7lps7800ksojlrh2g0oo08pm5gakoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkz6V4OBUZkv761a6MBepj9Kh8TX6YGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132877787395-0a7lps7800ksojlrh2g0oo08pm5gakoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
